@@ -52,7 +52,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
     font-size: 18px;
-     padding:20px;
+     padding:10px;
      background:#b9dce5;
      margin:auto;
      color:#0b5264;
